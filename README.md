@@ -6,12 +6,19 @@ This is the website of IndieFounders.fr - Home of the indie french founders comm
 
 - Typescript
 - Next.js
-- Tailwind CSS
+- Tailwind CSS w/ shadcn
 
 ## Tools
 
 - Issues: [Linear](https://linear.app/indiefounders)
 - Hosting: [Vercel](https://vercel.com/christoribeiro/indiefounders)
+
+## Get started
+
+```
+npm install
+npm run dev
+```
 
 ## Contribute
 
