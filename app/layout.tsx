@@ -6,7 +6,10 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
 	title: "Indie Founders",
-	description: "Home for the indie french founders community.",
+	description: "Indie Founders est la communauté des Indie Hackers francophones, en ligne et hors ligne.",
+	icons: {
+		icon: '/favicon.png',
+	},
 }
 
 export default function RootLayout({

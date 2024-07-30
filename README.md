@@ -1,6 +1,6 @@
 # IndieFounders.fr
 
-This is the website of IndieFounders.fr - Home of the indie french founders community. The repository is under the MIT License.
+This is the website of IndieFounders.fr - Home of the indie french founders community.
 
 ## Stack
 

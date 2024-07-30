@@ -4,11 +4,10 @@ export default function Home() {
 			<section className="py-24">
 				<div className="container max-w-5xl text-center">
 					<h1 className="font-bold text-5xl md:text-7xl tracking-tight text-balance">
-						Le réseau des indie founders francophones 🚀
+						Le réseau des Indie Hackers francophones
 					</h1>
 					<h2 className="font-light text-2xl md:text-3xl mt-6 text-balance">
-						Découvrez et échangez avec des entrepreneurs comme vous, qui valorisent l'indépendance, la liberté et
-						l'ambition.
+						Découvrez et échangez avec des entrepreneurs comme vous, qui valorisent l'indépendance.
 					</h2>
 					<button
 						type="button"
